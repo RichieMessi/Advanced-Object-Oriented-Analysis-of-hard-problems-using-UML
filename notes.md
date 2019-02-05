@@ -8,3 +8,4 @@
 * And after labelling the elements of a concept map, this is what it looks like 😄
 
 ![markdown logo](./img/cm-agreement_labeled.png)
+
